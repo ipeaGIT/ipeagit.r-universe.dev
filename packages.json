@@ -2,6 +2,7 @@
   {
     "package": "aopdata",
     "url": "https://github.com/ipeaGIT/aopdata"
+    "subdir" : "r-package"
   },
   {
     "package" : "r5r",
