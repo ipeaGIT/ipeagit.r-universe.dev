@@ -1,0 +1,11 @@
+[
+  {
+    "package": "aopdata",
+    "url": "https://github.com/ipeaGIT/aopdata"
+  },
+  {
+    "package" : "r5r",
+    "url" : "https://github.com/ipeaGIT/r5r",
+    "subdir" : "r-package"
+  }
+]
