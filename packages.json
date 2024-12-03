@@ -16,9 +16,9 @@
     "url": "https://github.com/ipeagit/censobr"
   },
   {
-    "package": "enderecopadrao",
+    "package": "enderecobr",
     "maintainer": "Daniel Herszenhut <dhersz@gmail.com>",
-    "url": "https://github.com/ipeagit/enderecopadrao"
+    "url": "https://github.com/ipeagit/enderecobr"
   },
   {
     "package": "flightsbr",
